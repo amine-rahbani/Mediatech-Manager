@@ -48,16 +48,20 @@ Before running the project, ensure you have the following installed:
    ```bash
    cd mediatech
 2. Run the application:
+   ```bash
    mvnw spring-boot:run
-   ## The server will start on http://localhost:8080.
-3. Frontend Setup:
+## The server will start on http://localhost:8080.
+4. Frontend Setup:
     ## navigate to the frontend folder:
+   ```bash
     cd mediatech-ui
-    ## Install dependencies (First time only):    
-    npm install 
-    ## Start the Angular server:
+## Install dependencies (First time only):    
+    ```bash
+    npm install
+## Start the Angular server:
+    ```bash
     ng serve
-    ## Access the application at: http://localhost:4200
+## Access the application at: http://localhost:4200
 
 🔑 Login Credentials
 The application initializes with two default users:
