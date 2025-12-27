@@ -56,10 +56,8 @@ Before running the project, ensure you have the following installed:
    ```bash
     cd mediatech-ui
 ## Install dependencies (First time only):    
-    ```bash
     npm install
 ## Start the Angular server:
-    ```bash
     ng serve
 ## Access the application at: http://localhost:4200
 
